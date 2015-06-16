@@ -185,7 +185,7 @@
 			color: $dark;
 			text-decoration: none;
 			&:hover {
-				color: lighten($dark, 10%);
+				color: lighten($highlight, 10%);
 			}
 		}
 	}
